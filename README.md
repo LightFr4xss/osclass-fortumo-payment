@@ -1,0 +1,1 @@
+osclass-fortumo-payment
